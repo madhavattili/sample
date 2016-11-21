@@ -2,6 +2,6 @@ class hello
 {
 	public static voidmain()
 	{
-		System.out.println("this is additiopn code");
+		System.out.println("this is hello code");
 	}
 
